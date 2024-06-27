@@ -1,0 +1,33 @@
+p{
+    text-align: center;
+    font-size: 2em;
+    position: absolute;
+    top: 40%;
+    width: 60%;
+    left: 18%;
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+}
+
+button{
+
+    background-color: red;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 10px 11px;
+    border-radius: 30px;
+    transition: .4s;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+button:hover{
+
+    background: transparent;
+    border: 2px solid black;
+    cursor: pointer;
+}

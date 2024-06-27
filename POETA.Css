@@ -1,0 +1,78 @@
+*{
+
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+
+}
+
+marquee{
+    padding: 1%;
+    background-color: rgb(184, 174, 174);
+    margin: 1%;
+    
+}
+
+div{
+    padding: 1%;
+       
+}
+
+
+
+
+img{
+
+    max-width: 270px;
+    max-height: 270px;
+    border: 1px solid black;
+    float: left;
+    margin-right: 15px;
+    padding: 15px;
+    margin: 3%;
+}
+
+h6{
+    color: black;
+}
+
+h3{
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+    padding: 3%;
+    cursor: pointer;
+    
+}
+
+button{
+
+    background-color: red;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 10px 11px;
+    border-radius: 30px;
+    transition: .4s;
+ 
+
+}
+
+button:hover{
+
+    background: transparent;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+
+
+
+
